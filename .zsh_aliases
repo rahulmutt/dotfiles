@@ -1,0 +1,4 @@
+alias zarc="vim ~/.zsh_aliases"
+alias szarc="source ~/.zsh_aliases"
+alias agi="sudo apt-get install"
+alias iu="sudo apt-get update && sudo apt-get upgrade"
