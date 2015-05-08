@@ -41,3 +41,8 @@ let g:syntastic_cpp_compiler_options = ' -std=c++11'
 let g:cpp_class_scope_highlight = 1
 
 let g:haskell_indent_if = 3
+let delimitMate_expand_cr = 1
+
+let g:UltiSnipsExpandTrigger="<tab>"
+let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsJumpBackwardTrigger="<c-z>"

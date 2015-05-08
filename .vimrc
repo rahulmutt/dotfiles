@@ -65,7 +65,7 @@ Bundle 'int3/vim-extradite'
 
 " Bars, panels, and files
 Bundle 'scrooloose/nerdtree'
-Bundle 'bling/vim-airline'
+" Bundle 'bling/vim-airline'
 Bundle 'kien/ctrlp.vim'
 Bundle 'majutsushi/tagbar'
 

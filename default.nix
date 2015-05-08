@@ -2,6 +2,7 @@
 
 let
   env = haskellngPackages.ghcWithPackages (p: with p; [
+    cabal2nix
     snap
     darcs
     xmonad

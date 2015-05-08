@@ -1,5 +1,9 @@
 " Bundle 'Lokaltog/vim-easymotion'
-" Bundle 'tpope/vim-surround'
+Bundle 'tpope/vim-surround'
+Bundle 'Raimondi/delimitMate'
+Bundle 'sirver/ultisnips'
+Bundle 'honza/vim-snippets'
+
 
 " " Web Development
 " Bundle 'Shutnik/jshint2.vim'
