@@ -2,4 +2,4 @@ eval `dircolors ~/.dir_colors/dircolors.256dark`
 bindkey -v
 ENABLE_CORRECTION="true"
 COMPLETION_WAITING_DOTS="true"
-vim ~/TODO.md
+keynav

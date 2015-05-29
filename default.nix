@@ -53,7 +53,7 @@ let
     yesod-core
     yesod-form
     yesod-static
-  ]);
+   ]);
 in
   stdenv.mkDerivation {
     name        = "project-name";

@@ -3,7 +3,13 @@ Bundle 'tpope/vim-surround'
 Bundle 'Raimondi/delimitMate'
 Bundle 'sirver/ultisnips'
 Bundle 'honza/vim-snippets'
-
+Bundle 'spwhitt/vim-nix'
+Bundle 'MarcWeber/vim-addon-completion'
+Bundle 'MarcWeber/vim-addon-goto-thing-at-cursor'
+Bundle 'MarcWeber/vim-addon-mw-utils'
+Bundle 'MarcWeber/vim-addon-actions'
+Bundle 'MarcWeber/vim-addon-nix'
+Bundle 'Superbil/llvm.vim'
 
 " " Web Development
 " Bundle 'Shutnik/jshint2.vim'

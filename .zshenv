@@ -7,7 +7,8 @@ if [ -d "$HOME/.local/bin" ] ; then
 fi
 
 if [ -e /home/rahulmutt/.nix-profile/etc/profile.d/nix.sh ] ; then 
-    . /home/rahulmutt/.nix-profile/etc/profile.d/nix.sh
+    . /home/rahulmutt/.nix-profile/etc/profile.d/nix.sh;
+    NIX_PATH=nixpkgs=/home/rahulmutt/src/nixpkgs;
 fi
 
 export EDITOR='vim'

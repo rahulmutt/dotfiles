@@ -44,5 +44,7 @@ let g:haskell_indent_if = 3
 let delimitMate_expand_cr = 1
 
 let g:UltiSnipsExpandTrigger="<tab>"
-let g:UltiSnipsJumpForwardTrigger="<c-b>"
+let g:UltiSnipsListSnippets="<c-a>"
+let g:UltiSnipsJumpForwardTrigger="<tab>"
 let g:UltiSnipsJumpBackwardTrigger="<c-z>"
+let g:UltiSnipsEditSplit="horizontal"
